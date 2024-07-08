@@ -1,0 +1,21 @@
+Instructions
+[1] Install Medal from (https://medal.tv)
+[2] Restart pc if you have loaded any drivers
+[3] Clean all ban traces and spoof using a good spoofer
+[4] Install the Loader
+[5] Make sure you run the loader as admin
+[6] Enter the license provided by the seller to login
+[7] Open fortnite after the driver has loaded
+[8] Press F5 in the lobby
+
+Note
+As this is still in its beta stage it is not fully undetected right now please be patient as im solo
+developing the cheat + driver.
+
+Ban Types
+[1] Hwid kick only no account ban = Spoofer Ban
+[2] Hwid kick + Account ban = Cheat Detection
+[3] Account ban ONLY = Report ban (can sometimes be a cheat but most of the time its just a report ban)
+
+Credits:
+Rxin
